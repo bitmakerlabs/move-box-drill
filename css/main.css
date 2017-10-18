@@ -1,0 +1,10 @@
+.box {
+  font-size: 5em;
+  width: 3em;
+  height: 3em;
+  background-color: tomato;
+  position: fixed;
+  padding: 1em 0;
+  text-align: center;
+  color: #fff;
+}
